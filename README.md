@@ -1,2 +1,2 @@
 # Face-Detector
-A python based easy but efficient Face detector using OpenCV.
+A python based easy but efficient Face detector using OpenCV .
